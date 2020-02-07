@@ -1,4 +1,4 @@
-# CS411-projeat
+# CS411-project
 hey this is Justin
 
 hey this is Faisal
